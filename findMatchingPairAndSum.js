@@ -33,7 +33,6 @@ console.log(hasPairWithSum(arr1, sum));
 
 // third solve
 // linear solve
-// compare lowest to largest if largest i smaller than 8, if not move to next
 
 function hasPairWithSum1(arr, sum) {
 	let mySet = new Set();
